@@ -1,7 +1,7 @@
 # EXPERIMENT--01-ALP-FOR-8086
-Name : Beatrice Thomas
-Roll no: 212223110005
-Date of experiment : 10/3/2005
+### Name : Beatrice Thomas
+### Roll no: 212223110005
+### Date of experiment : 10/3/2005
 
 
 
@@ -154,12 +154,15 @@ HLT
 ![Screenshot 2025-02-28 090443](https://github.com/user-attachments/assets/8298586c-d4d4-48d5-867e-3e6878cbbb40)
 
 ![Screenshot 2025-02-28 091320](https://github.com/user-attachments/assets/613bb80f-b651-4dc4-89c9-bbf7f8dd7c9e)
+ 
+![Screenshot 2025-02-28 085242](https://github.com/user-attachments/assets/57f0a3b8-29fd-40a1-93c6-861d8b9a791b)
 
-![Uploading Screenshot 2025-02-28 091320.png…]() 
+
+## Result :
+
+ Thus execution of ALP on fundamental arithmetic and logical operations is successfully verified.
 
 
-
-## Result :![Screenshot 2025-02-28 085242](https://github.com/user-attachments/assets/57f0a3b8-29fd-40a1-93c6-861d8b9a791b)
 
  
 
